@@ -188,10 +188,10 @@ ul .content::-webkit-scrollbar {
   border-radius: 10px;
   width: 140px;
   height: 130px;
-   position: absolute; 
-   top: 0;
+  position: absolute;
+  top: 0;
   right: 0;
-  bottom: 0; 
+  bottom: 0;
   margin: 30px 40px;
   box-shadow: 0 5px 30px 10px black;
 }
@@ -211,11 +211,10 @@ ul .content::-webkit-scrollbar {
   position: absolute;
   border-radius: 10px;
   box-shadow: 0 5px 30px 10px black;
-
-
 }
+
 @media screen and (max-width:390px) {
-  .logo .img1{
+  .logo .img1 {
     width: 200px;
     height: 110px;
     position: absolute;
@@ -225,10 +224,11 @@ ul .content::-webkit-scrollbar {
     /* margin: auto; */
     margin: 200px auto;
   }
- 
+
 }
+
 @media screen and (max-width:460px) {
-  .logo .img1{
+  .logo .img1 {
     width: 200px;
     height: 110px;
     position: absolute;
@@ -238,5 +238,5 @@ ul .content::-webkit-scrollbar {
     /* margin: auto; */
     margin: 200px auto;
   }
- 
+
 }
