@@ -193,6 +193,7 @@ ul .content::-webkit-scrollbar {
   right: 0;
   bottom: 0;
   margin: 30px 40px;
+  
   box-shadow: 0 5px 30px 10px black;
 }
 
@@ -224,12 +225,14 @@ ul .content::-webkit-scrollbar {
     margin-bottom: 265px;
     /* margin: auto; */
     margin: 0px auto;
+    margin-top: 20px;
   }
 
 }
 
 @media screen and (max-width:460px) {
   .logo .img1 {
+    margin-top: 20px;
     width: 200px;
     height: 110px;
     position: absolute;
