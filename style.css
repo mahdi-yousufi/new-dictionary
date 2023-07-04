@@ -242,7 +242,8 @@ ul .content::-webkit-scrollbar {
     bottom: 0;
     left: 0;
     /* margin: auto; */
-    margin: 25px 30px;
+    margin: 25px 0;
+    margin-left: 30px;
     /* margin-top: 40px; */
   }
 
