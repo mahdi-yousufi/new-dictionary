@@ -224,8 +224,8 @@ ul .content::-webkit-scrollbar {
     left: 0;
     margin-bottom: 265px;
     /* margin: auto; */
-    margin: 0px auto;
-    margin-top: 50px;
+    margin: 25px auto;
+    /* margin-top: 40px; */
   }
 
 }
@@ -242,8 +242,8 @@ ul .content::-webkit-scrollbar {
     bottom: 0;
     left: 0;
     /* margin: auto; */
-    margin: 0px auto;
-    margin-top: 50px;
+    margin: 25px auto;
+    /* margin-top: 40px; */
   }
 
 }
